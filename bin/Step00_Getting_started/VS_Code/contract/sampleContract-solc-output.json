@@ -1,0 +1,103 @@
+{
+    "contracts": {
+        "e:/Learn-Web3.0/Step00_Getting_started/VS_Code/contract/sampleContract.sol": {
+            "newContract": {
+                "abi": [],
+                "devdoc": {
+                    "kind": "dev",
+                    "methods": {},
+                    "version": 1
+                },
+                "evm": {
+                    "bytecode": {
+                        "functionDebugData": {},
+                        "generatedSources": [],
+                        "linkReferences": {},
+                        "object": "6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a9afd2a2859300f87a87734958d7b2d09c9d0aabda8fce5973de19074677fd6b64736f6c63430008130033",
+                        "opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE CALLVALUE DUP1 ISZERO PUSH1 0xF JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST POP PUSH1 0x3F DUP1 PUSH1 0x1D PUSH1 0x0 CODECOPY PUSH1 0x0 RETURN INVALID PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 0xA9 0xAF 0xD2 LOG2 DUP6 SWAP4 STOP 0xF8 PUSH27 0x87734958D7B2D09C9D0AABDA8FCE5973DE19074677FD6B64736F6C PUSH4 0x43000813 STOP CALLER ",
+                        "sourceMap": "70:31:0:-:0;;;;;;;;;;;;;;;;;;;"
+                    },
+                    "deployedBytecode": {
+                        "functionDebugData": {},
+                        "generatedSources": [],
+                        "immutableReferences": {},
+                        "linkReferences": {},
+                        "object": "6080604052600080fdfea2646970667358221220a9afd2a2859300f87a87734958d7b2d09c9d0aabda8fce5973de19074677fd6b64736f6c63430008130033",
+                        "opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 0xA9 0xAF 0xD2 LOG2 DUP6 SWAP4 STOP 0xF8 PUSH27 0x87734958D7B2D09C9D0AABDA8FCE5973DE19074677FD6B64736F6C PUSH4 0x43000813 STOP CALLER ",
+                        "sourceMap": "70:31:0:-:0;;;;;"
+                    },
+                    "gasEstimates": {
+                        "creation": {
+                            "codeDepositCost": "12600",
+                            "executionCost": "66",
+                            "totalCost": "12666"
+                        }
+                    },
+                    "methodIdentifiers": {}
+                },
+                "metadata": "{\"compiler\":{\"version\":\"0.8.19+commit.7dd6d404\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"e:/Learn-Web3.0/Step00_Getting_started/VS_Code/contract/sampleContract.sol\":\"newContract\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"e:/Learn-Web3.0/Step00_Getting_started/VS_Code/contract/sampleContract.sol\":{\"keccak256\":\"0xca826f04f7b1a1cc5312f6b4d3e3e703c620d92aaff4e18322d34dba8fcf0848\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://958ae6a96c6193d298ff27438413555b1449f5c3cb6f65b3a6331a148ac29829\",\"dweb:/ipfs/QmeTWnddYjFnGHx3RNdnvJ6MBEyJ4igkJhVFnMfWNXR7Yz\"]}},\"version\":1}",
+                "storageLayout": {
+                    "storage": [],
+                    "types": null
+                },
+                "userdoc": {
+                    "kind": "user",
+                    "methods": {},
+                    "version": 1
+                }
+            }
+        }
+    },
+    "sources": {
+        "e:/Learn-Web3.0/Step00_Getting_started/VS_Code/contract/sampleContract.sol": {
+            "ast": {
+                "absolutePath": "e:/Learn-Web3.0/Step00_Getting_started/VS_Code/contract/sampleContract.sol",
+                "exportedSymbols": {
+                    "newContract": [
+                        2
+                    ]
+                },
+                "id": 3,
+                "license": "MIT",
+                "nodeType": "SourceUnit",
+                "nodes": [
+                    {
+                        "id": 1,
+                        "literals": [
+                            "solidity",
+                            ">=",
+                            "0.8",
+                            ".2",
+                            "<",
+                            "0.9",
+                            ".0"
+                        ],
+                        "nodeType": "PragmaDirective",
+                        "src": "35:31:0"
+                    },
+                    {
+                        "abstract": false,
+                        "baseContracts": [],
+                        "canonicalName": "newContract",
+                        "contractDependencies": [],
+                        "contractKind": "contract",
+                        "fullyImplemented": true,
+                        "id": 2,
+                        "linearizedBaseContracts": [
+                            2
+                        ],
+                        "name": "newContract",
+                        "nameLocation": "79:11:0",
+                        "nodeType": "ContractDefinition",
+                        "nodes": [],
+                        "scope": 3,
+                        "src": "70:31:0",
+                        "usedErrors": []
+                    }
+                ],
+                "src": "35:66:0"
+            },
+            "id": 0
+        }
+    }
+}

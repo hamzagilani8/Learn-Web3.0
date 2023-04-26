@@ -12,12 +12,32 @@
 
 ## Books we would follow
 
-Some Chapters of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering%20Blockchain%20%20a%20deep%20dive%20into%20distributed%20ledgers%2C%20consensus%20protocols%2C%20smart%20contracts%2C%20DApps%2C%20cryptocurrencies%2C...%20(Imran%20Bashir)%20(z-lib.org).pdf)
+Some Chapters of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
 
 [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
 ## Start learning web3.0
 ### - Introduction to blockchain
+
+Chapter 1 Blockchain 101 pages 1-12 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+
+Part 1 pages 4-6 of [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
+
 ### - Understanding blockchain
+
+Chapter 1 Blockchain 101 pages 12-24 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+
+### - Mechanism of consensus
+
+Chapter 1 Blockchain 101 pages 29-35 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+
+Part 1 pages 13-16 of [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
+
+https://ethereum.org/en/developers/docs/consensus-mechanisms/
+
+* https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/
+
+* https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+
 ### - What is Ethereum?
 ### - What is Ether?
 ### - Getting fimiliar with the terminologies

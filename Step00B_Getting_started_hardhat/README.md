@@ -1,14 +1,22 @@
 
 ## Settingup the environment
 
-* Install the extenstion named `Solidity` in your VS Code
-or
-* Use the library slocjs [documentation](https://github.com/ethereum/solc-js)
+Run the following commands in your terminal
+
 ```javascript
-npm install -g solc
+npm init
+
+npm install --save-dev hardhat
+
+npx hardhat
 ```
-* Make a new folder named 'contract'
-* Make a new file in that folder with the extention `.sol` in the format `<fileName>.sol`
+now run the following commands to install some useful plugins
+
+```javascript
+npm install --save-dev @nomicfoundation/hardhat-toolbox
+```
+
+Go to the contracts folder
 
 ### License
 

@@ -1,0 +1,15 @@
+{
+  "name": "step02_basic_solidity",
+  "version": "1.0.0",
+  "description": "In Solidity, there are three types of variables: state variables, local variables, and global variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "step00b_getting_started_hardhat",
+  "version": "1.0.0",
+  "description": "* Install the extenstion named `Solidity` in your VS Code\r or\r * Use the library slocjs [documentation](https://github.com/ethereum/solc-js)\r ```javascript\r npm install -g solc\r ```\r * Make a new folder named 'contract'\r * Make a new file in that folder with the extention `.sol` in the format `<fileName>.sol`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}

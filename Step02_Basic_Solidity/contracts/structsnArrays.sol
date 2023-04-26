@@ -19,5 +19,4 @@ Person[3] public threePeople; // It can only store 3 Person Type data.
 function addPeople (uint32 _age, string memory _name) public {
     People.push(Person(_age, _name));
 }
-    
 }

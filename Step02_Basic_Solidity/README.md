@@ -21,9 +21,6 @@ In Solidity, there are three types of variables: state variables, local variable
 * [Bytes vs Bits](https://www.youtube.com/watch?v=Dnd28lQHquU)
 * [Solidity Types](https://docs.soliditylang.org/en/latest/types.html)
 
-# Functions
-
-
 # Visibility
 ## State Variable Visibility
 
@@ -56,7 +53,7 @@ Similar to internal functions, but not visible in derived contracts.
 ### Note
 `Making a function private or internal only prevents other contracts from accessing it. The information is still visible outside of the blockchain.`
 
-## Difference between View and Pure Functions
+# Difference between View and Pure Functions
 
 Detailed table that differentiates between `view` and `pure` functions in Solidity:
 
@@ -64,3 +61,15 @@ Detailed table that differentiates between `view` and `pure` functions in Solidi
 | --- | --- | --- | --- |
 | `view` | Read-only functions that do not modify the state of the blockchain. They can only view data on the blockchain. | Yes | No |
 | `pure` | Functions that do not read or modify the state variables. They return values only using the parameters passed to the function or local variables present in it. | No | No |
+
+# Constructor
+
+In Solidity, a `constructor` is a special function that is called only once at the time of contract creation. It is used to initialize the state variables of a smart contract. The `constructor` function is defined using the `constructor` keyword and is optional.
+
+A contract can have only one constructor. If no constructor is defined, a default constructor is present in the contract. A constructor can be either public or internal. An internal constructor marks the contract as abstract.
+
+Main uses of a constructor are:
+* Initializing State variables
+* Setting Owner of the contract
+* etc
+

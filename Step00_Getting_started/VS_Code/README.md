@@ -2,6 +2,11 @@
 ## Settingup the environment
 
 * Install the extenstion named `Solidity` in your VS Code
+or
+* Use the library slocjs [documentation](https://github.com/ethereum/solc-js)
+```javascript
+npm install -g solc
+```
 * Make a new folder named 'contract'
 * Make a new file in that folder with the extention `.sol` in the format `<fileName>.sol`
 
@@ -42,7 +47,9 @@ contract <contractName> {
 }
 ```
 
-## Now compile the code by pressing `F5`
+## Now compile the code 
+
+### by pressing `F5` (Using Extenstion)
 
 You would get a success message at the output terminal
 ```javascript
@@ -50,5 +57,8 @@ Retrieving compiler information:
 Compiler using remote version: 'latest', solidity version: 0.8.19+commit.7dd6d404.Emscripten.clang
 Compilation completed successfully!
 ```
-
+### by cusing slocjs
+```javascript
+solcjs --bin <fileName>.sol
+```
 ### Your first contract compiled sucessfully

@@ -10,7 +10,9 @@
 ###  - Step 2 [Learn Next.js](https://github.com/panaverse/learn-nextjs)
 ###  - Step 3 [Practice Next.js to make web2.0 apps](https://github.com/panaverse/styling-nextjs-projects)
 
+## Books we would follow
 
+Books\SOLIDITY_PROGRAMMING_ESSENTIALS.pdf
 ## Start learning web3.0
 ### - Introduction to blockchain
 ### - Understanding blockchain

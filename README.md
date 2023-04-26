@@ -12,7 +12,7 @@
 
 ## Books we would follow
 
-Some Chapters of [Mastering Blockchain]()
+Some Chapters of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering%20Blockchain%20%20a%20deep%20dive%20into%20distributed%20ledgers%2C%20consensus%20protocols%2C%20smart%20contracts%2C%20DApps%2C%20cryptocurrencies%2C...%20(Imran%20Bashir)%20(z-lib.org).pdf)
 
 [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
 ## Start learning web3.0

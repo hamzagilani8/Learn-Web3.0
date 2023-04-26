@@ -15,10 +15,13 @@
 Some Chapters of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
 
 [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
+
+
 ## Start learning web3.0
+
 ### - Introduction to blockchain
 
-Chapter 1 Blockchain 101 pages 1-12 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+Chapter 1 Blockchain 101 pages 1-7 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
 
 Part 1 pages 4-6 of [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
 
@@ -38,7 +41,18 @@ https://ethereum.org/en/developers/docs/consensus-mechanisms/
 
 * https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
 
+### Cryptography
+
+Chapter 3 Symetric Cryprography pages 63-89 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+
+Chapter 4 Asymetric Cryprography pages 93-121 of [Mastering Blockchain](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/Mastering_Blockchain.pdf)
+
+Part 1 pages 7-12 of [Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
+
+
 ### - What is Ethereum?
+
+
 ### - What is Ether?
 ### - Getting fimiliar with the terminologies
 #### Accounts

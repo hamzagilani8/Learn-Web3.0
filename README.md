@@ -6,9 +6,9 @@
 [What is web3.0 and its comparison](https://www.youtube.com/watch?v=0tZFQs7qBfQ&t=61s&pp=ygUkZGlmZmVyZW5jZSBiZXR3ZWVuIHdlYjIuMCBhbmQgd2ViMy4w)
 
 ## Prerquisits to get started
-###  - Step 1 [Learn Typescript](https://github.com/panaverse/learn-typescript)
-###  - Step 2 [Learn Next.js](https://github.com/panaverse/learn-nextjs)
-###  - Step 3 [Practice Next.js to make web2.0 apps](https://github.com/panaverse/styling-nextjs-projects)
+* Step 1 [Learn Typescript](https://github.com/panaverse/learn-typescript)
+* Step 2 [Learn Next.js](https://github.com/panaverse/learn-nextjs)
+* Step 3 [Practice Next.js to make web2.0 apps](https://github.com/panaverse/styling-nextjs-projects)
 
 ## Books we would follow
 

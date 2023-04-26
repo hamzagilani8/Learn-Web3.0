@@ -33,7 +33,8 @@ This tells the compiler to use solidity version that is either `0.8.2` or latest
 
 ### Your first contract
 
-Make a contract using the keyword `contract` in the format ```javascript
+Make a contract using the keyword `contract` in the format
+```javascript
 contract <contractName> {
 
 }

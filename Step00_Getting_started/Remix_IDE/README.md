@@ -13,7 +13,9 @@ https://remix.ethereum.org/
 
 Add this code in the first line to avoid compile time errors
 
-`// SPDX-License-Identifier: MIT`
+```javascript
+// SPDX-License-Identifier: MIT
+```
 
 ### Pragma
 
@@ -21,13 +23,17 @@ Pragma is used to tell the compiler about version of solidity being used.
 
 It can be written in many different ways:
 
-`pragma solidity >=0.8.2 <0.9.0;`
+```javascript
+pragma solidity >=0.8.2 <0.9.0;
+```
 
 This tells the compiler to use solidity version that is either `0.8.2` or latest but not latest to `0.9.0`
 
 #### OR
 
-`pragma solidity ^0.8.2;`
+```javascript
+pragma solidity ^0.8.2;
+```
 
 This tells the compiler to use solidity version that is either `0.8.2` or latest
 

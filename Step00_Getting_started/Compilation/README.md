@@ -20,6 +20,4 @@ There is a reference page on ethereum.org that provides an accessible reference 
 
 ### [Opcode disassembler](https://etherscan.io/opcode-tool)
 
-### More information in Hindi
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opHjPETCh68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### [For more information in Hindi watch this vedio](https://youtu.be/opHjPETCh68)

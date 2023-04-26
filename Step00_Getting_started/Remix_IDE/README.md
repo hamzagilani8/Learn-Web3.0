@@ -45,3 +45,6 @@ contract <contractName> {
 
 }
 ```
+
+## Now compile the code
+### Your first contract compiled sucessfully

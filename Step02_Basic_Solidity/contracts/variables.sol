@@ -20,9 +20,11 @@ bytes32 myBytes = "cat"; // This represents a fixed-sized byte array (byte1 to b
 }
 
 contract localVariables {
-
+      function getResult() public pure returns(uint){
+      uint a = 1; // local variable
+      uint b = 2;
+      uint result = a + b;
+      return result; //access the local variable
+   }
 }
 
-contract globalVariables{
-    
-}

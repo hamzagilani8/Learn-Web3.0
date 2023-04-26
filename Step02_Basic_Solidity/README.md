@@ -56,3 +56,11 @@ Similar to internal functions, but not visible in derived contracts.
 ### Note
 `Making a function private or internal only prevents other contracts from accessing it. The information is still visible outside of the blockchain.`
 
+## Difference between View and Pure Functions
+
+Detailed table that differentiates between `view` and `pure` functions in Solidity:
+
+| Function Type | Description | Reads State Variables | Modifies State Variables |
+| --- | --- | --- | --- |
+| `view` | Read-only functions that do not modify the state of the blockchain. They can only view data on the blockchain. | Yes | No |
+| `pure` | Functions that do not read or modify the state variables. They return values only using the parameters passed to the function or local variables present in it. | No | No |

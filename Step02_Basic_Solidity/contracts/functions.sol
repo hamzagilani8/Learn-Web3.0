@@ -3,9 +3,13 @@
 pragma solidity >=0.8.2 <0.9.0;
 
 contract functions{
-    uint32 public age;
+   uint data;
 
-    function yourAge (uint32 _age) public {
-        age = _age;
-    }
+  function updateData(uint _data) public {
+    data = _data;
+  }
+
+  function readData() public view returns(uint) {
+    return data;
+  }
 }

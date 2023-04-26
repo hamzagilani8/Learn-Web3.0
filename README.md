@@ -12,7 +12,9 @@
 
 ## Books we would follow
 
-Books\SOLIDITY_PROGRAMMING_ESSENTIALS.pdf
+Some Chapters of [Mastering Blockchain]()
+
+[Solidity Learning Essentials](https://github.com/hamzagilani8/Learn-Web3.0/blob/main/Books/SOLIDITY_PROGRAMMING_ESSENTIALS.pdf)
 ## Start learning web3.0
 ### - Introduction to blockchain
 ### - Understanding blockchain

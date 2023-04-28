@@ -11,11 +11,6 @@ npm install --save-dev hardhat
 npx hardhat
 ```
 
-Install typescript by using the command
-```script
-npm install --save-dev typescript
-npm install --save-dev ts-node
-```
 
 now run the following commands to install some useful plugins
 

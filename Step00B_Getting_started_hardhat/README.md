@@ -57,16 +57,12 @@ contract <contractName> {
 
 ## Now compile the code 
 
-### by pressing `F5` (Using Extenstion)
+```javascript
+npx hardhat compile
+```
 
 You would get a success message at the output terminal
-```javascript
-Retrieving compiler information:
-Compiler using remote version: 'latest', solidity version: 0.8.19+commit.7dd6d404.Emscripten.clang
-Compilation completed successfully!
-```
-### by cusing slocjs
-```javascript
-solcjs --bin <fileName>.sol
-```
+
+`Compiled 1 Solidity file successfully`
+
 ### Your first contract compiled sucessfully

@@ -52,10 +52,21 @@ Part 1 pages 7-12 of [Solidity Learning Essentials](https://github.com/hamzagila
 
 ### - What is Ethereum?
 
+https://ethereum.org/en/developers/docs/intro-to-ethereum/
 
 ### - What is Ether?
+
+https://ethereum.org/en/developers/docs/intro-to-ether/
+
 ### - Getting fimiliar with the terminologies
 #### Accounts
+https://ethereum.org/en/developers/docs/accounts/
+
 #### Transactions
+https://ethereum.org/en/developers/docs/transactions/
+
 #### Gas
+https://ethereum.org/en/developers/docs/gas/
+
 #### Account Abstraction
+https://ethereum.org/en/roadmap/account-abstraction/
